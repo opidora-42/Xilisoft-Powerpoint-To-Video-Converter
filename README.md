@@ -226,3 +226,6 @@ Xilisoft PowerPoint to Video Converter is offered as a complete free version, pr
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-18 00:51:13 UTC
